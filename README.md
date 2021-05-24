@@ -112,3 +112,10 @@
 - aprimorando gráficos retirando informações desnecessárias
 - posicionamento de elementos no gráfico segundo padrões de leitura
 - como melhor destacar uma informação
+
+
+### 10 - Data Visualization, Parte 2: Escolhendo o melhor gráfico
+- princípios por trás da construção dos gráficos
+- principais relações que gráficos podem demonstrar
+- como o tipo de variável é importante.
+- apresente melhor suas informações
