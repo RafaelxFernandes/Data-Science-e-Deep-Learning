@@ -119,3 +119,25 @@
 - principais relações que gráficos podem demonstrar
 - como o tipo de variável é importante.
 - apresente melhor suas informações
+
+
+### 11 - Data Visualization, Criando gráficos com o Matplotlib
+- conversão para datetime
+- gráfico de linha
+- selecionar apenas uma parte dos dados para a visualização
+- adicionar mais de um eixo na mesma visualização
+- mover os eixos x e y
+- fazer gráficos com mais de uma cor
+- adicionar linhas de restrição
+- adicionar setas
+- desenhar um gráfico de barras
+- desenhar um gráfico de pizza
+- fazer um gráfico de dispersão
+- aplicar filtros em conjuntos de dados
+- fazer um gráfico de caixas univariável
+- fazer um gráfico de caixas multivariável
+- fazer um histograma
+- normalizar um histograma
+- adicionar anotações matemáticas
+- salvar figuras
+- combinar mais de uma imagem em apenas uma
