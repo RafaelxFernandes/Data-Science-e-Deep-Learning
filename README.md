@@ -141,3 +141,24 @@
 - adicionar anotações matemáticas
 - salvar figuras
 - combinar mais de uma imagem em apenas uma
+
+
+### 12 - Introdução à Testes Estatísticos com Python
+- gerar um histograma
+- gerar um boxplot
+- fazer uma query
+- gerar histogramas de maneira cumulativa
+- remover valores NaN
+- separação de dados com quantile()
+- descobrir intervalo de confiança com tconfint()
+- descrever nossos dados de forma estatística
+- o que é, como utilizar e quando utilizar o Teste Z e o Teste T
+- gerar um intervalo de confiança das médias de nossas distribuições
+- utilizar o get_compare() do statsmodels
+- comparar médias
+- utilizar o summary()
+- utilizar o seaborn para mostrar gráfico
+- comparar médias diferentes
+- utilizar o normaltest
+- teste não paramétrico
+- utilizar o ranksums
