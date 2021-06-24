@@ -162,3 +162,23 @@
 - utilizar o normaltest
 - teste não paramétrico
 - utilizar o ranksums
+
+### 13 - Introdução à Experimentação: Análise de Experimentos
+- discernir quais fontes são válidas para a coleta de dados
+- definir os objetivos do experimento, assim como identificar as variáveis manipuláveis e a resposta do experimento
+- como limitar a área de experimentação
+- planejamentos fatoriais
+- usar a biblioteca pyDOE2 para gerar planejamentos fatoriais
+- fazer análises gráficas preliminares do experimento
+- propor um modelo estatístico
+- ajustar o modelo estatístico aos dados experimentais usando o StatsModel
+- o significado de graus de liberdade
+- calcular os graus de liberdade dos resíduos
+- fazer a análise de significância estatística dos parâmetros do modelo
+- construir e interpretar um gráfico normalizado de pareto
+- atualizar hipóteses iniciais a medida que novas informações são coletadas
+- propor novos modelos para melhor representar a realidade de um experimento
+- analisar um gráfico de predito por observado com a finalidade de inferir a qualidade da representatividade de um modelo
+- relacionar o coeficiente de correlação R2 com a qualidade do ajuste e com os resultados apresentados por um gráfico de preditos por observados
+- construir e interpretar mapas de cores
+- inserir linhas nos mapas de cores para facilitar a interpretação dos resultados
