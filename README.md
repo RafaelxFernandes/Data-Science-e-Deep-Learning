@@ -182,3 +182,13 @@
 - relacionar o coeficiente de correlação R2 com a qualidade do ajuste e com os resultados apresentados por um gráfico de preditos por observados
 - construir e interpretar mapas de cores
 - inserir linhas nos mapas de cores para facilitar a interpretação dos resultados
+
+### 14 - Análise para Saúde e Medicina
+- importar raw csv
+- data visualization no cotidiano
+- plotagem dos dados com pandas e matplotlib
+- calcular diferenciação
+- fontes de dados recomendadas
+- interpretação e exposição dos dados
+- histogramas e resumindo informações
+- usos do scatterplot e displot
