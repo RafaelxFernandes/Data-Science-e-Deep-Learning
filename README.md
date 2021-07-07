@@ -1,5 +1,7 @@
 ## Repositório com os exercícios dos cursos Alura da formação de Data Science
 
+![certificado](https://github.com/RafaelxFernandes/Data_Science/blob/main/Certificado%20de%20Rafael%20da%20Silva%20Fernandes%20Forma%C3%A7%C3%A3o%20Data%20Science%20-%20Cursos%20Alura-1.png)
+
 ### 1 - Introdução à Numpy
 - trabalhando com arrays Numpy
 - operações matemáticas
