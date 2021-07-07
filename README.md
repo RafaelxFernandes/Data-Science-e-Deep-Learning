@@ -192,3 +192,13 @@
 - interpretação e exposição dos dados
 - histogramas e resumindo informações
 - usos do scatterplot e displot
+
+
+### 15 - Visualização de Dados para Saúde e Medicina
+- data visualization
+- filtrar por coluna e valor de interesse
+- substituir valores de True e False com numpy
+- calcular soma e diferença das colunas
+- transpor matriz
+- juntando dataset distintos
+- trabalhando textos com pandas
