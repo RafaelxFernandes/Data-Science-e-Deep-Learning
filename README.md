@@ -204,3 +204,30 @@
 - transpor matriz
 - juntando dataset distintos
 - trabalhando textos com pandas
+
+
+### 16 - Python Pandas Técnicas Avançadas
+
+- alterar algumas configurações do Colab e do Pandas
+- carregar arquivos no formato JSON em uma DataFrame do pandas
+- carregar arquivos no formato XLSX em uma DataFrame do pandas
+- como converter o formato JSON em um formato tabular
+- trabalhar com dados no formato textual
+- trabalhar com dados textuais juntamente com objetos do pandas
+- utilizar métodos de string para fazer conversões de tipo
+- conhecemos os métodos do pandas para empilhar objetos do pandas
+- técnicas de tratamento de dados para gerar compatibilizações
+- métodos para juntar DataFrames com o uso de variáveis de ligação
+- extração de informações de dados em formato de texto
+- criar categorias a partir de dados categorizados
+- criar categorias a partir de dados numéricos
+- criar colunas em um DataFrame a partir de outras informações
+- método de aplicação de funções lambda nos eixos de um DataFrame
+- métodos de agregação do pandas
+- técnicas de geração de tabelas de resumo
+- formas de reorganizar as informações de um DataFrame
+- criar tabelas dinâmicas a partir de DataFrames
+- formas de pesquisa e substituição de informações com o método where
+- trabalhar com dados em formato de lista dentro de objetos do pandas
+- métodos de estilização de DataFrames
+
