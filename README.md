@@ -231,3 +231,19 @@
 - trabalhar com dados em formato de lista dentro de objetos do pandas
 - métodos de estilização de DataFrames
 
+
+### 17 - Introdução à Análise de Séries Temporais
+
+- verificar se havia dados nulos com o comando dataset.isna().sum()
+- aperfeiçoar o gráfico incluindo uma nova palette de cor, incluindo título e labels com tamanho adequado descrevendo melhor do que se trata
+- aplicar a técnica de Decomposição de uma time series, para mensurar o crescimento mês a mês
+- utilizamos a função diff() para decomposição das vendas para criar o aumento, e do aumento para descobrir a aceleração
+- executar a função de Autocorrelação para descobrir o nível de correlação das vendas, do aumento e da aceleração
+- importância da técnica de Decomposição na análise dos dados
+- analisar os dados e descobrir um padrão repetitivo no movimento deles dentro de um período de tempo fixo, na qual é chamado de Sazonalidade
+- investigar o que causava a sazonalidade
+- técnica de normalização de time series para minimizar as frequências pela quantidade de dias de finais de semana de cada mês
+- análise de uma time series importando da biblioteca statsmodels.tsa.seasonal a função seasonal_decompose, que nos mostra o que é a nossa observação, tendência, sazonalidade e ruído de uma só vez
+- ruído na Time Series
+- minimizar os ruídos de uma time series aplicando a técnica da média móvel
+- criar um gráfico com a média móvel de 7 e 21 dias e comparamos com nossa observação
