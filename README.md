@@ -247,3 +247,20 @@
 - ruído na Time Series
 - minimizar os ruídos de uma time series aplicando a técnica da média móvel
 - criar um gráfico com a média móvel de 7 e 21 dias e comparamos com nossa observação
+
+
+### 18 - Análise de Série Temporal: COVID-19
+
+- análise exploratória visual simples para séries temporais
+- o que é o crescimento exponencial e como ele se aplica ao contexto de pandemias
+- transformada logarítmica e como ela pode nos ajudar a visualizar melhor dados que apresentam comportamento de crescimento exponencial
+- calcular a aceleração (ou desaceleração da pandemia) e como plotar corretamente essa nova variável
+- criar funções para evitar a repetição de códigos
+- como utilizar a ferramenta matemática da média móvel para diminuir as oscilações causadas
+- o que significa matematicamente a correlação entre as variáveis e também suas implicações
+- como calcular a autocorrelação em séries temporais e como interpretá-la
+- como modificar a variável de estudo pode influenciar os valores de autocorrelação devido à dependência temporal
+- o que significa sazonalidade e como ela estava presente em nossos dados
+- criar novas variáveis com as que já temos, facilitando a análise. Este processo também é conhecido como “feature engineering”
+- como utilizar um dicionário e o mapeamento de bancos de dados para traduzir os dias da semana de inglês para português
+- utilizar a função para criarmos um único gráfico mostrando informações sobre dia da semana, dia do mês e mês com pairplot
