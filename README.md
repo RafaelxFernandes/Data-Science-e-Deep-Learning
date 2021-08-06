@@ -264,3 +264,21 @@
 - criar novas variáveis com as que já temos, facilitando a análise. Este processo também é conhecido como “feature engineering”
 - como utilizar um dicionário e o mapeamento de bancos de dados para traduzir os dias da semana de inglês para português
 - utilizar a função para criarmos um único gráfico mostrando informações sobre dia da semana, dia do mês e mês com pairplot
+
+
+### 19 - Previsões de série temporal: COVID-19
+- decomposição: filtrar os dados para os estados de interesse e decompor nossa série temporal em componentes
+- tendência e sazonalidade: identificar os padrões de sazonalidade e de tendência para diferentes séries temporais
+- como definir uma série estacionária e realizar o teste ADF para checar se uma série é ou não estacionária
+- autocorrelação e o que ela tem a nos dizer sobre as séries temporais
+- conceito de autocorrelação parcial e como ele nos ajuda a entender melhor o comportamento de séries temporais com sazonalidade
+- que tipo de métrica podemos utilizar para saber se o modelo ARIMA é bom ou não
+- o que significa cada um dos parâmetros do modelo ARIMA
+- como rodar o SARIMAX para diversos parâmetros e comparar a melhor métrica de performance
+- como identificar a qualidade dos nossos modelos por meio do gráfico Q-Q, dos resíduos, do histograma e do correlograma
+- qual a importância de utilizar um intervalo de confiança
+- quando utilizar as funções get_forecast() e get_prediction()
+- como utilizar dados que temos para testar nosso modelo antes de realizar previsões para o futuro
+- como fazer o uso do ARIMA sazonal com outros dados
+- observamos que séries com tendência menor acabam apresentando resultados melhores com o uso do ARIMA sazonal
+- é mais importante ainda utilizar um período de previsão menor, uma vez que oscilações e resíduos se tornam mais importantes, devido à amplitude menor dos dados originais
