@@ -282,3 +282,48 @@
 - como fazer o uso do ARIMA sazonal com outros dados
 - observamos que séries com tendência menor acabam apresentando resultados melhores com o uso do ARIMA sazonal
 - é mais importante ainda utilizar um período de previsão menor, uma vez que oscilações e resíduos se tornam mais importantes, devido à amplitude menor dos dados originais
+
+
+### 20 - Python Scikit-Learn: Regressão, classificação e clustering
+- Treinar os dados
+- o que é classificação
+- como identificar problemas de classificação
+- construir uma árvore de decisão
+- como prever um problema de classificação
+- o que é acurácia
+- o dummy classifier
+- o que é regressão
+- como identificar problemas de regressão
+- o que é regressão linear
+- como prever um problema de regressão
+- o que é clustering
+- como identificar problemas de clustering
+- algoritmo KMeans
+
+
+### 21 - Clustering: extraindo padrões de dados
+- o problema da falta de rótulos
+- a diferença entre classificação e clusterização
+- analisar os atributos de modo geral
+- aimpar os dados
+- normalizar os dados
+- rodar o algoritmo k-means
+- critérios utilizados para validar os clusters: compactação e separação
+- passo a passo para calcular o coeficiente de silhouette
+- utilizar a função silhouette_score() do scikit-learn
+- passo a passo para calcular o índice davies bouldin
+- utilizar a função davies_bouldin_score() do scikit-learn
+- passo a passo para calcular o índice calinski harabasz
+- utilizar a função calinski_harabasz_score() do scikit-learn
+- comparar diferentes configurações do k-means por meio da validação relativa
+- validar a estrutura dos clusters
+- verificar a estabilidade dos clusters
+- gerar gráficos para a visualização dos clusters
+- interpretar os clusters por meio dos gráficos
+- dificuldade da atividade de visualização de clusters
+- obter e analisar estatísticas sobre os valores dos atributos
+- calcular a variância dos centróides dos clusters
+- selecionar os melhores atributos para servir de base para a interpretação
+- analisar os dados dos clusters
+- interpretar os dados dos clusters
+- extrair os padrões que caracterizam cada cluster
