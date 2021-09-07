@@ -327,3 +327,22 @@
 - analisar os dados dos clusters
 - interpretar os dados dos clusters
 - extrair os padrões que caracterizam cada cluster
+
+### 22 - Machine Learning: Introdução a classificação com SKLearn
+
+- definir características (features) do que desejamos classificar
+- classificar em categorias
+- utilizar o módulo linearSVC e accuracy_score
+- utilizar o método fit
+- prever dados com a função predict
+- calcular a taxa de acerto do modelo
+- comparar testes e previsões
+- separar dados para treino e teste
+- estratificar splits
+- criação de um algoritmo base
+- utilizar a função arange do numpy
+- decision boundary
+- utilizar o módulo Support Vector Machine
+- gerar valores randômicos com o módulo SVC
+- utilizar o módulo Standard Scale
+- utilizar o módulo DummyClassifier
