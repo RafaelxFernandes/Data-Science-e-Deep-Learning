@@ -346,3 +346,20 @@
 - gerar valores randômicos com o módulo SVC
 - utilizar o módulo Standard Scale
 - utilizar o módulo DummyClassifier
+
+### 23 - Clusterização de dados: Segmentação de clientes
+
+- quais as principais etapas em um problema de segmentação
+- que tipo de dados vamos precisar obter
+- como a análise exploratória pode ajudar a identificar insights
+- como adicionar textos informativos em gráficos
+- modelos RFM (recência, frequência e monetaridade)
+- como funciona o método k-means
+- como usar a regra do cotovelo para definir o número de clusters
+- como usar uma regra matemática para confirmar o número de clusters
+- como clusterizar os dados usando kmeans
+- como ordenar os dados de forma que o número de cluster sirva como pontuação
+- criar funções de forma simplificada ao segmentar as operações
+- criar um modelo de pontuação com base nos clusters
+- fazer visualizações com scatterplot
+- identificar o comportamento dos clientes
