@@ -363,3 +363,20 @@
 - criar um modelo de pontuação com base nos clusters
 - fazer visualizações com scatterplot
 - identificar o comportamento dos clientes
+
+### 24 - Redes Neurais: Deep Learning com PyTorch
+
+- perceptron: a unidade fundamental de redes neurais
+- teorema da Aproximação Universal
+- tensores como estrutura de dados
+- manipulação de tensores no Pytorch
+- modelos lineares
+- retas como classificadores lineares
+- perceptron como classificador linear
+- camada Linear do PyTorch para criar um Perceptron
+- papel da função de ativação no perceptron
+- funções de ativação no PyTorch
+- problemas multi-classe
+- multi-Layer Perceptron (MLP)
+- implementando uma arquitetura com nn.Sequential
+- implementando uma arquitetura com nn.Module
