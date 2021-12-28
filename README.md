@@ -380,3 +380,24 @@
 - multi-Layer Perceptron (MLP)
 - implementando uma arquitetura com nn.Sequential
 - implementando uma arquitetura com nn.Module
+
+
+### 25 - Treinando uma Rede Neural: Deep Learning com PyTorch
+
+- papel da função de perda no aprendizado
+- funções de perda para regressão
+- funções de perda para classificação
+- convergência de modelos
+- papel da função de perda no cálculo do gradiente
+- definindo uma taxa de aprendizado
+- otimização de problemas com PyTorch
+- padronização dos dados
+- papel dos hiperparâmetros no treinamento.
+- otimizadores mais usados
+- hiperparâmetros de treinamento: Batch, Iteração e Época
+- carregamento de dados com Torchvision
+- DataLoader no PyTorch
+- fluxo completo de treinamento
+- carregamento de dados customizado.
+- Dataset no PyTorch
+- fluxo completo de validação
