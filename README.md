@@ -2,6 +2,8 @@
 
 ![certificado](https://github.com/RafaelxFernandes/Data_Science/blob/main/Certificado%20de%20Rafael%20da%20Silva%20Fernandes%20Forma%C3%A7%C3%A3o%20Data%20Science%20-%20Cursos%20Alura-1.png)
 
+![certificado-deep-learning](https://github.com/RafaelxFernandes/Data-Science/blob/main/Certificado%20Deep%20Learning.png)
+
 ### 1 - Introdução à Numpy
 - trabalhando com arrays Numpy
 - operações matemáticas
@@ -401,3 +403,45 @@
 - carregamento de dados customizado.
 - Dataset no PyTorch
 - fluxo completo de validação
+
+### 26 - Redes Neurais Convolucionais: Deep Learning com PyTorch
+
+- representação numérica de uma imagem
+- representações visuais de uma CNN
+- principais usos da CNN
+- datasets do Torchvision
+- kernels para Convolução 1D
+- convolução com a biblioteca scipy
+- uso da convolução para Reconhecimento de Padrões
+- operação da Convolução 2D
+- kernels 2D
+- exemplos de filtros manualmente projetados
+- convolução com imagens RGB
+- controle de resolução da informação
+- definindo uma convolução no PyTorch
+- camada de Pooling
+- camada de Batch Normalization
+- implementação de um bloco convolucional em PyTorch
+- implementando uma CNN com PyTorch
+- treinando uma CNN do zero
+- CNN para extração de características
+- carregando modelos pré-treinados do Torchvision
+- Fine-tuning
+
+
+### 27 - Redes Neurais Recorrentes: Deep Learning com PyTorch
+
+- RNNCell no PyTorch
+- construção de Vocabulário e Representação One Hot
+- classificação de nomes com uma Char-RNN
+- Vanishing Gradient
+- uso de Gates
+- LSTM e GRU
+- implementando a RNN
+- Deep RNN
+- RNN Bidirecional
+- análise de sentimentos
+- Torchtext
+- camada de Embedding
+- BucketIterator
+- lidando com sequências de comprimento variável
